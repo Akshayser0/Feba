@@ -19,3 +19,8 @@
    <br>
 
 ## ⓒ 2022 Viz Zer and All other Respective Owners.
+    
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Feba/count.svg"/>
+</p
