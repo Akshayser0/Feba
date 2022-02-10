@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["919526433047@s.whatsapp.net"],
+  "ownerName": ["Viz-Zer"],
+  "botName": "Feba",
+  "sessionName": "session",
+  "pathimg": "./media/feba.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
